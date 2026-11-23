@@ -1,0 +1,14 @@
+[Unit]
+Description=Buzzer(inicialização)
+After=multi-user.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/home/sel/buzzer.py
+ExecStop=/home/sel/buzzer_stop.py
+user=SEL
+
+[Install]
+WantedBy=multi-user.target
+
