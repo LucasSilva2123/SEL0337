@@ -1,0 +1,24 @@
+commit ec43b2d1f085412ac002273844283daf6bb9e2d8
+Merge: dfb11c3 76217fe
+Author: LucasSilva2123 <lucassilva21@usp.br>
+Date:   Mon Nov 23 11:26:33 2026 -0300
+
+    Merge branch 'main' of https://github.com/LucasSilva2123/SEL0337
+
+commit dfb11c37a6f37be3a1adb32845fa1eace3451e3c
+Author: LucasSilva2123 <lucassilva21@usp.br>
+Date:   Mon Nov 23 11:21:27 2026 -0300
+
+    Adicionando programa .service  utilizado no Checkpoint1 da prática 5
+
+commit 76217fef9ec261909699d092447e7d6e5d8747a3
+Author: LucasSilva2123 <lucassilva21@usp.br>
+Date:   Mon Nov 23 11:19:42 2026 -0300
+
+    Create README.md
+
+commit 6e9b8f1839fb19f65f5a2a98219528c2bc86afd0
+Author: LucasSilva2123 <lucassilva21@usp.br>
+Date:   Mon Nov 23 11:06:58 2026 -0300
+
+    Adicionando programas utilizados no Checkpoint1 da prática 5
